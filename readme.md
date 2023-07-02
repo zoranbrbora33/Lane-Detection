@@ -4,10 +4,10 @@ This repository contains Python code for detecting and tracking lane lines in vi
 
 ## Requirements
 
-Python 3.x
-OpenCV (cv2)
-NumPy
-Matplotlib
+- Python 3.7
+- OpenCV (cv2)
+- NumPy
+- Matplotlib
 
 ## Customization
 
